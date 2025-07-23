@@ -51,7 +51,6 @@ def chat_with_deepseek(prompt, conversation_history=None):
 def main():
     print("=" * 50)
     print(f"A.S.K.")
-    print("模型: {MODEL_NAME}")
     print("输入 'exit' 退出，'clear' 清除对话历史")
     print("=" * 50)
     
